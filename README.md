@@ -28,8 +28,11 @@ The datasets named as Control_group and Test_group contains 30 rows and 10 attri
 
 ## **Data Cleaning:**
 **•	Missing Values Handling:**<br />
+
 **•	Duplicated Values Handling:**<br />
+
 **•	Changing Data Types:**<br />
+
 **•	Adding Performance Metrics:**<br />
 
 
@@ -43,8 +46,8 @@ The datasets named as Control_group and Test_group contains 30 rows and 10 attri
 **4) What is the comparison of CTR(%) and Conversion Rate(%) per campaign ?**<br />
 
 ## **Hypothesis Testing:**
-**1) Shapiro-Wilk Test**
-**2) Fligner-Killeen Test**
-**3) Mann-Whitney U test**
+**1) Shapiro-Wilk Test**<br />
+**2) Fligner-Killeen Test**<br />
+**3) Mann-Whitney U test**<br />
 
 ## **Conclusion:**
