@@ -1,10 +1,11 @@
 # **E-Commerce-Website-EDA-and-A-B-Testing**
 
-## **Introduction: **
+## **Introduction:**
 
 ## **Data Acquisition:**
 
 The datasets named as Control_group and Test_group contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test groups on August 2019. The attributes are as follows:<br>
+
 **• Campaign Name:** Target campaign type for ad landing page.<br>
 
 **• Spend [USD]:** The amount of money spent on advertising in the campaign.<br>
