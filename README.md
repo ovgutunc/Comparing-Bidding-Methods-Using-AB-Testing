@@ -1,4 +1,4 @@
-# **E-Commerce-Website-EDA-and-A-B-Testing**
+# **E-Commerce-Website-EDA-and-AB-Testing**
 
 ## **Introduction:**
 
@@ -27,7 +27,24 @@ The datasets named as Control_group and Test_group contains 30 rows and 10 attri
 **• Date:**<br> 
 
 ## **Data Cleaning:**
+**•	Missing Values Handling:**<br />
+**•	Duplicated Values Handling:**<br />
+**•	Changing Data Types:**<br />
+**•	Adding Performance Metrics:**<br />
+
 
 ## **Exploratory Data Analysis:**
+**1) Descriptive Statistics**<br />
+
+**2) What is the total number of records for each attributes per campaign ?**<br />
+
+**3) What is the relationship between attributes ?**<br />
+
+**4) What is the comparison of CTR(%) and Conversion Rate(%) per campaign ?**<br />
+
 ## **Hypothesis Testing:**
+**1) Shapiro-Wilk Test**
+**2) Fligner-Killeen Test**
+**3) Mann-Whitney U test**
+
 ## **Conclusion:**
