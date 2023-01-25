@@ -24,8 +24,6 @@ The datasets named as Control_group and Test_group contains 30 rows and 10 attri
 
 **• # of Purchase:** The number of users who have purchased the product.<br>
 
-**• Date:**<br> 
-
 ## **Data Cleaning:**
 **1)	Missing Values Handling:**<br />
 
