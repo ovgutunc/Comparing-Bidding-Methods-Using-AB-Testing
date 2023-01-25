@@ -44,15 +44,7 @@ To gauge which campaign are most appealing to the users, new performance metrics
 
 ## **Exploratory Data Analysis:**
 **1) Descriptive Statistics**<br />
-• There is a small number of outliers in "searches", "view_content", "CTR(%)" and "Conversion Rate(%)". Due to the small size of dataset and legitimate observations, it is better to keep outliers to prevent losing valuable information and changing the analysis results.
-
-• The median values of attributes are different for each campaign other than searches,view_content, and purchases.
-
-• Impressions, reach and CTR(%) in test campaign show wider distribution meaning of more variability in the results in terms of IQR compared to control campaign. On the other hand, Conversion Rate(%) has a very similar IQR. It is also worth noting that while purchase in both campaigns has almost the same median, the box plot in test campaign ends up with a higher variation.
-
-• Spend in control campaign is positively skewed and the median is closer to the bottom of the box with smaller values when compared to the box plot in test campaign. CTR(%) in test campaign is skewed to the right as well. In addition, Conversion Rate(%) in control campaign is also skewed to the right under the effect of outliers.On the other hand, add_to_car in control campaign is negatively skewed and the median is closer to the top of the box with higher values when compared to the box plot in test campaign.
-
-• Impressions,reach,searches,view_content,add to cart have higher max values in control campaign. On the other side,purchase and CTR(%) have the higher max values in test campaign.
+Before running hypothesis testing, to provide a concise summary of the data, the measures of central tendency(mean, median), variability(standard deviation, variance, IQR, and percentiles), skewness, and distribution as well as detecting outliers are analyzed by using box plots.<br />
 
 **2) What is the total number of records for each attributes per campaign ?**<br />
 
