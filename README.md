@@ -62,6 +62,9 @@ Scatter plots are taken into consideration to get an idea about the strength and
 Time-series plots are included to see the performances of both campaigns over time and determine any trends or pattern in the performance of CTR(%) and Conversion Rate(%).<br />
 
 ## **Hypothesis Testing:**
+
+Hypothesis Testing is considered to determine whether the difference of CTR(%) and Conversion Rate(%)in performance between Control group and Test group is statistically significant or not. From the perspective of assumptions of statistical test such as normality, homogeneity of variances, random sampling, sample size and data type, tests are selected to make decisions about the campaigns as follows:
+
 **1) Shapiro-Wilk Test**<br />
 **2) Fligner-Killeen Test**<br />
 **3) Mann-Whitney U test**<br />
