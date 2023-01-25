@@ -49,7 +49,7 @@ To gauge which campaign are most appealing to the users, new performance metrics
 ## **Exploratory Data Analysis:**
 **1) Descriptive Statistics**<br />
 
-Before running hypothesis testing, to provide a concise summary of the data, the measures of central tendency(mean, median), variability(standard deviation, variance, IQR, and percentiles), skewness, and distribution as well as detecting outliers are analyzed by using box plots.<br />
+Before running hypothesis testing, to provide a concise summary of the data, the measures of central tendency(mean, median), variability(standard deviation, variance, IQR, and percentiles), skewness, and distribution as well as outliers are analyzed by using box plots.<br />
 
 **2) What is the total number of records for each attribute per campaign ?**<br />
 
