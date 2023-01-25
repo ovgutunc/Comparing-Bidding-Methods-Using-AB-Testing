@@ -70,8 +70,14 @@ From the perspective of assumptions of statistical test such as normality, homog
 
 **1) Shapiro-Wilk Test**<br />
 
+It is performed to check the normality of campaigns in CTR(%) and Conversion Rate(%).
+
 **2) Fligner-Killeen Test**<br />
 
+It is performed to check the homogeneity of variances of campaigns in CTR(%) and Conversion Rate(%).
+
 **3) Mann-Whitney U test**<br />
+
+Based on the results of Shapiro-Wilk Test and Fligner-Killeen Test, Mann-Whitney U test is selected as a non-parametric test to find whether the medians of campaigns in CTR(%) and Conversion Rate(%) are equal or not.
 
 ## **Conclusion:**
