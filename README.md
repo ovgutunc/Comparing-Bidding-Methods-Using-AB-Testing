@@ -3,6 +3,7 @@
 ## **Introduction:**
 
 This project aims to compare the performance of current and new campaigns for an e-commerce website to make a decision about which version to use in the future based on A/B test results by EDA and hypothesis testing.<br>
+
 To get further information about data analysis and visualization of the datasets, please check out **[Jupyter Notebook](https://github.com/ovgutunc/120-Years-of-Olympic-History-Data-Analysis-using-SQL/blob/main/olympics_history_data_analysis.ipynb).**  
 ## **Data Acquisition:**
 
