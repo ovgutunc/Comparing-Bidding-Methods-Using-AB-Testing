@@ -38,7 +38,9 @@ The data type of "Date" column format is corrected from "object" to "datetime64[
 
 **•	Adding Performance Metrics:**<br />
 To gauge which campaign are most appealing to the users, new performance metrics are identified :
-- CTR(%)=
+
+  - CTR(%) = Website clicks/ Impressions * 100
+  - Conversion Rate(%) = Purchase / Website clicks * 100
 
 ## **Exploratory Data Analysis:**
 **1) Descriptive Statistics**<br />
