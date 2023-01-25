@@ -2,6 +2,8 @@
 
 ## **Introduction:**
 
+This project aims to compare the performance of current and new campaigns for an e-commerce website to make a decision about which version to use in the future based on A/B test results by EDA and hypothesis testing.
+To get further information about data analysis and visualization of the datasets, please check out **[Jupyter Notebook](https://github.com/ovgutunc/120-Years-of-Olympic-History-Data-Analysis-using-SQL/blob/main/olympics_history_data_analysis.ipynb).**  
 ## **Data Acquisition:**
 
 The datasets named as Control_group and Test_group contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test groups on August 2019. The attributes are as follows:<br>
