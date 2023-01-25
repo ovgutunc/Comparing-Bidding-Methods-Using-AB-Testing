@@ -46,9 +46,12 @@ To gauge which campaign are most appealing to the users, new performance metrics
 **1) Descriptive Statistics**<br />
 Before running hypothesis testing, to provide a concise summary of the data, the measures of central tendency(mean, median), variability(standard deviation, variance, IQR, and percentiles), skewness, and distribution as well as detecting outliers are analyzed by using box plots.<br />
 
-**2) What is the total number of records for each attributes per campaign ?**<br />
+**2) What is the total number of records for each attribute per campaign ?**<br />
+To gain a general overview about campaigns,  pie charts are used to compare the total values of each attribute.
 
 **3) What is the relationship between attributes ?**<br />
+Scatter plots are taken into consideration to get an idea about the strength and direction of the relationship between attributes.
+
 
 **4) What is the comparison of CTR(%) and Conversion Rate(%) per campaign ?**<br />
 
