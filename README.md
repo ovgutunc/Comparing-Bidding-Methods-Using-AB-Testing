@@ -28,13 +28,17 @@ The datasets named as Control_group and Test_group contains 30 rows and 10 attri
 
 ## **Data Cleaning:**
 **•	Missing Values Handling:**<br />
+7 out of 10 columns excluding "campaign_name","date" and "spend_usd" have missing values in only one row. To handle this, missing values are replaced with mean values of their own column.<br />
 
 **•	Duplicated Values Handling:**<br />
+A/B Test Results datasets which are control group and test group do not have any duplicated records.<br />
 
 **•	Changing Data Types:**<br />
+The data type of "Date" column format is corrected from "object" to "datetime64[ns]".Additionally, the columns whose data types are "float64" are changed to "int64" to get the same format in both datasets.
 
 **•	Adding Performance Metrics:**<br />
-
+To gauge which campaign are most appealing to the users, new performance metrics are identified :
+- CTR(%)=
 
 ## **Exploratory Data Analysis:**
 **1) Descriptive Statistics**<br />
