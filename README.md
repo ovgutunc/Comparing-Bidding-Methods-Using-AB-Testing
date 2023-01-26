@@ -2,7 +2,7 @@
 
 ## **Introduction:**
 
-This project aims to compare the performance of current and new campaigns for an e-commerce website to make a decision about which version to use in the future based on A/B test results by EDA and hypothesis testing.<br>
+This project aims to compare the performance of current and new campaigns for an e-commerce website to make a decision about which campaign to use in the future based on A/B test results by EDA and hypothesis testing.<br>
 
 To get further information about exploratory data analysis and hypothesis testing, please check out **[Jupyter Notebook](https://github.com/ovgutunc/120-Years-of-Olympic-History-Data-Analysis-using-SQL/blob/main/olympics_history_data_analysis.ipynb).**  
 ## **Data Acquisition:**
@@ -94,7 +94,12 @@ Based on the results of Shapiro-Wilk Test and Fligner-Killeen Test, Mann-Whitney
 • Control campaign, which is Max-bidding, has higher impressions and reach values with regard to the aim of Max-bidding strategy.<br>
 
 • Overall, even if Test campaign has a higher CTR(%), it has a lower Conversion Rate (%) in terms of the mean value of performance metrics. It can be explained by marketing strategies and statistical requirements:<br>
+
 >-The ad in campaign is targeting the wrong consumers.<br>
+
 >-Working with a small size of data and having outliers affects the distribution, variability, and skewness with the selection of statistical methods resulting in a non-parametric test.<br>
 
-• It is recommended to work with a larger amount of data focused on targeted people to observe trends, patterns, and variations over time. This will allow us to use of the right statistical methods to determine which campaign is more effective in a statistical manner.<br>
+• It is recommended to conduct A/B test with a larger amount of data focused on targeted people for a longer period of time to observe trends, patterns, and variations. This will allow us to use of the right statistical methods to determine which campaign is more effective in a statistical manner.<br>
+
+_Thank you for your precious time.I hope you enjoy my data world as much as ı do._<br>
+_Keep grinding !_<br>
