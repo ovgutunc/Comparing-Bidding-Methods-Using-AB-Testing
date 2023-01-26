@@ -84,3 +84,17 @@ It is performed to check the homogeneity of variances of campaigns in CTR(%) and
 Based on the results of Shapiro-Wilk Test and Fligner-Killeen Test, Mann-Whitney U test is selected as a non-parametric test to find whether the medians of campaigns in CTR(%) and Conversion Rate(%) are equal or not.
 
 ## **Conclusion:**
+
+• Test campaign, which is Average-bidding strategy, has a higher CTR(%) of %10.24 than Control campaign (%5.08), which is Max-bidding, which in turn found that the result is statistically significant.<br>
+
+• Control campaign has a higher Conversion Rate(%) of %11.4 than Test campaign (%9.2). However, there is no sufficient evidence that the result is statistically significant.<br>
+
+• Both campaigns have almost the same amount of purchases, Although Test campaign has a higher amount of money spent than Control campaign.<br>
+
+• Control campaign, which is Max-bidding, has higher impressions and reach values with regard to the aim of Max-bidding strategy.<br>
+
+• Overall, even if Test campaign has a higher CTR(%), it has a lower Conversion Rate (%) in terms of the mean value of performance metrics. It can be explained by marketing strategies and statistical requirements:<br>
+>-The ad in campaign is targeting the wrong consumers.<br>
+>-Working with a small size of data and having outliers affects the distribution, variability, and skewness with the selection of statistical methods resulting in a non-parametric test.<br>
+
+• It is recommended to work with a larger amount of data focused on targeted people to observe trends, patterns, and variations over time. This will allow us to use of the right statistical methods to determine which campaign is more effective in a statistical manner.<br>
