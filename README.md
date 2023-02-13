@@ -1,4 +1,4 @@
-# **E-Commerce-Website-EDA-and-AB-Testing**
+# **Comparing Bidding Methods Using AB Testing**
 
 ## **Introduction:**
 
