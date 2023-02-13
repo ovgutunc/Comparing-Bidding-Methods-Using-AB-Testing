@@ -8,7 +8,7 @@ To get further information about exploratory data analysis and hypothesis testin
 
 ## **Data Acquisition:**
 
-The datasets named as Control_campaign(Max-bidding) and Test_campaign(Average-bidding) contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test campaigns on August 2019. The attributes are as follows:<br>
+The datasets named as Control_campaign (Max-bidding) and Test_campaign (Average-bidding) contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test campaigns on August 2019. The attributes are as follows:<br>
 
 **• Campaign Name:** Target campaign type for ad landing page.<br>
 
