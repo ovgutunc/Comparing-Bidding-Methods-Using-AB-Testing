@@ -4,11 +4,11 @@
 
 This project aims to compare the performance of current (Max-bidding) and new campaign (Average-bidding) for an e-commerce website to make a decision about which campaign to use in the future based on A/B test results by EDA and hypothesis testing.<br>
 
-To get further information about exploratory data analysis and hypothesis testing, please check out **[Jupyter Notebook](https://github.com/ovgutunc/E-Commerce-Website-EDA-and-AB-Testing/blob/main/AB_test.ipynb).**  
+To get further information about exploratory data analysis and hypothesis testing, please check out **[the detailed report](https://github.com/ovgutunc/E-Commerce-Website-EDA-and-AB-Testing/blob/main/AB_test.ipynb).**  
 
 ## **Data Acquisition:**
 
-The datasets named as Control_campaign (Max-bidding) and Test_campaign (Average-bidding) contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test campaigns on August 2019. The attributes are as follows:<br>
+The datasets named as Control campaign (Max-bidding) and Test campaign (Average-bidding) contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test campaigns on August 2019. The attributes are as follows:<br>
 
 **• Campaign Name:** Target campaign type for ad landing page.<br>
 
