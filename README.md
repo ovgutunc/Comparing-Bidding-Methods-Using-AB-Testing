@@ -8,7 +8,7 @@ To get further information about exploratory data analysis and hypothesis testin
 
 ## **Data Acquisition:**
 
-The datasets named as Control_group and Test_group contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test groups on August 2019. The attributes are as follows:<br>
+The datasets named as Control_campaign(Max-bidding) and Test_campaign(Average-bidding) contains 30 rows and 10 attributes. Each row corresponds to A/B test results of the company for Control and Test campaigns on August 2019. The attributes are as follows:<br>
 
 **• Campaign Name:** Target campaign type for ad landing page.<br>
 
@@ -37,7 +37,7 @@ The link to the datasets is **[here](https://www.kaggle.com/datasets/ilkeryildiz
 
 **2)	Duplicated Values Handling:**<br />
 
-A/B Test Results datasets which are control group and test group do not have any duplicated records.<br />
+A/B Test Results datasets which are control campaign and test campaign do not have any duplicated records.<br />
 
 **3)	Changing Data Types:**<br />
 
@@ -69,7 +69,7 @@ Time-series plots are included to see the performances of both campaigns over ti
 
 ## **Hypothesis Testing:**
 
-Hypothesis Testing is considered to determine whether the difference of CTR(%) and Conversion Rate(%)in performance between Control group and Test group is statistically significant or not.
+Hypothesis Testing is considered to determine whether the difference of CTR(%) and Conversion Rate(%)in performance between Control campaign and Test campaign is statistically significant or not.
 From the perspective of assumptions of statistical test such as normality, homogeneity of variances, random sampling, sample size and data type, tests are selected to make decisions about the campaigns as follows:
 
 **1) Shapiro-Wilk Test**<br />
