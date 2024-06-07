@@ -1,4 +1,4 @@
-# **Comparing Bidding Methods Using AB Testing**
+# **Comparing Marketing Campaigns Using AB Testing for E-commerce**
 
 ## **Introduction:**
 
