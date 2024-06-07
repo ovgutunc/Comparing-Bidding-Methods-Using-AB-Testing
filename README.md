@@ -1,4 +1,4 @@
-# **Comparing Marketing Campaigns Using AB Testing for E-commerce**
+# **Comparing Marketing Campaigns Using A/B Testing for E-commerce**
 
 ## **Introduction:**
 
